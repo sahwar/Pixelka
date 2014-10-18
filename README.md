@@ -12,7 +12,11 @@ Aims:
 
 2. It should be written in C/C++/Python and using GTK+/Qt, so that it's multi-platform.
 
-3. It should use source code from the following projects (these may change as the project progresses):
+3. It should have all the standard tools for pixel-art creation/editing, like custom pixel brushes, zooming, a grid, a 256-color palette, adding/editing/deleting multiple frames for GIF animations, transparency, layers, color selection, etc.
+
+4. It should be easy to use. 
+
+5. It should use source code from the following projects (these may change as the project progresses):
 
 * <a href="http://www.gimp.org/">GIMP</a> - GNU GPL v3
 * <a href="https://launchpad.net/gnome-paint">Gnome-Paint</a> - GNU GPL v3
@@ -24,6 +28,4 @@ Aims:
 * <a href="http://tjaden.strangesoft.net/loadpng/">loadpng</a> - zlib license
 * <a href="http://www.zlib.net/">zlib</a> - <a href="http://www.zlib.net/zlib_license.html">zlib license</a>
 * <a href="http://sourceforge.net/projects/freetype/">FreeType</a> - BSD license
-* (<a href="http://www.grinninglizard.com/tinyxml/">tinyxml</a> - zlib license)
-
-4. It should have all the standard tools for pixel-art creation/editing, like custom pixel brushes, zooming, a grid, a 256-color palette, adding/editing/deleting multiple frames for GIF animations, etc.
+* (<a href="http://www.grinninglizard.com/tinyxml/">tinyxml</a> - zlib license).
