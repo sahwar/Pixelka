@@ -23,6 +23,9 @@ Online:
 
 and various other image/graphics editors.
 
+For inspiration, tutorials, and galleries of pixel-art works, see:
+http://pixeljoint.com, https://deviantart.com, http://blog.studiominiboss.com/pixelart, and 
+
 2. It should be written in C/C++/Python and using GTK+/Qt, so that it's multi-platform.
 
 3. It should have all the standard tools for pixel-art creation/editing, like custom pixel brushes, zooming, a grid, a 256-color palette, adding/editing/deleting multiple frames for GIF animations, transparency, layers, color selection, etc.
@@ -42,3 +45,24 @@ and various other image/graphics editors.
 * <a href="http://www.zlib.net/">zlib</a> - <a href="http://www.zlib.net/zlib_license.html">zlib license</a>
 * <a href="http://sourceforge.net/projects/freetype/">FreeType</a> - BSD license
 * (<a href="http://www.grinninglizard.com/tinyxml/">tinyxml</a> - zlib license).
+
+Other useful pixel-art-related hyperlinks:
+
+Slate (https://github.com/mitchcurtis/slate/), 
+
+https://www.pixilart.com/draw#
+https://lospec.com/pixel-art-where-to-start
+
+https://lospec.com/pixel-art-software-list
+https://lospec.com/pixel-editor
+https://lospec.com/palette-list
+
+https://m.imgur.com/gallery/tFxyX
+https://m.imgur.com/gallery/craplUa
+https://amp.reddit.com/r/PixelArt/comments/8uua8u/octutorialalbum_i_put_all_my_latest_stuff_into_a/
+https://design.tutsplus.com/articles/20-inspiring-pixel-artists-tutorials-and-resources--psd-305
+http://www.gameanim.com/2009/05/31/snk-pixel-art-gallery/
+http://kofaniv.snk-corp.co.jp/english/info/15th_anniv/2d_dot/index.php
+https://www.creativebloq.com/illustration/examples-pixel-art-2132036
+http://gas13.ru/v3/links/pixelart_links.php
+https://www.google.bg/search?client=ms-android-motorola-rev2&ei=0fjpW-fDLIivgAbJ3rygBg&ins=false&q=pixel+art+galleries+and+tutorials&oq=pixel+art+galleries+and+tutorials&gs_l=mobile-gws-wiz-serp.3..33i22i29i30l5.23050.29436..30126...0.0..0.145.2691.8j16......0....1.........0j0i71j0i67j0i22i30j0i13j0i13i5i30j0i13i30j0i19j0i22i30i19.fpq4wa7S3hY#ip=1
