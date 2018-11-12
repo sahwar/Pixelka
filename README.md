@@ -6,9 +6,22 @@ A pixel art-oriented image/graphics editor with a nice palette option.
 
 NOTE: THIS PROJECT IS IN ITS PLANNING STAGES. WE'RE LOOKING FOR TALENTED C/C++ DEVELOPERS TO HELP US DEVELOP THIS FREE IMAGE EDITOR.
 
+NOTE 2: We currently recommend JPixel (https://emad.itch.io/jpixel), paint.net (with the Animation plug-in), SwankyPaint (http://paint.wetgenes.com/about & https://github.com/xriss/swankypaint), Blit (https://16bpp.net/blog/post/blit-a-retrospective-on-my-largest-project-ever & https://gitlab.com/define-private-public/blit), PikoPixel (http://twilightedge.com/mac/pikopixel/), and Krita.
+Of the commercial pixel-art editors, we recommend Cosmigo ProMotion NG, Aseprite, PyxelEdit, and GraphicsGale.
+
 Aims:
 
-1. It should be inspired by the interfaces of the GIMP, Paint.NET/Pinta, PaintStar, GraFX2, iDraw3, MyPaint, KolourPaint, MS Paint, IcoFX and various other image/graphics editors.
+1. It should be inspired by the interfaces of the GIMP, [JPixel](https://emad.itch.io/jpixel), Krita, Paint.NET/Pinta, PaintStar, GraFX2 (http://pulkomandy.tk/projects/GrafX2), iDraw3, MyPaint, MediBang Paint Pro, KolourPaint, MS Paint, IcoFX, LibreSprite (https://github.com/LibreSprite/LibreSprite), mtPaint (http://mtpaint.sourceforge.net),
+https://amp.slant.co/questions/1547
+AzPainter (https://osdn.net/projects/azpainter/)
+https://prominentdetail.github.io/Pixel.Tools/
+https://www.pixelmator.com/pro/
+https://marmoset.co/hexels/
+
+Online:
+* https://www.piskelapp.com
+
+and various other image/graphics editors.
 
 2. It should be written in C/C++/Python and using GTK+/Qt, so that it's multi-platform.
 
